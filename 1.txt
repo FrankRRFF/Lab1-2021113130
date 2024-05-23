@@ -1,4 +1,4 @@
- git in idea
+git in idea
 package com.cn;
 import java.io.*;
 import java.util.*;
