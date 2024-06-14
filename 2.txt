@@ -1,4 +1,3 @@
-Modification in 2.txt on B1
 
 package com.cn;
 import java.io.*;
@@ -560,4 +559,8 @@ public class textGraph {
         }
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 200a50b90ffb50cc09521e76101a399dbf06c588
